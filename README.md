@@ -38,5 +38,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or issues, please contact [your-email@example.com](mailto:your-email@example.com).
 
 ## Screenshots
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](pic1.png)
+![Screenshot 2](pic2.png)
